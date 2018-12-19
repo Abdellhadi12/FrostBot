@@ -7,5 +7,5 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
- http.get(`https://frostdiscord.herokuapp.com/`);
+ http.get(`عطينا شوي كريديت`);
 }, 280000);
